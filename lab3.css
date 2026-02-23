@@ -1,0 +1,43 @@
+body{
+    background-color: #F8F9FF;
+}
+
+main{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.box{
+    background-color: white;
+    padding: 40px 50px;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.boxes a{
+    text-decoration: none;
+    color: #009379;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.boxes h2{
+  padding-left: 7px;
+}
+
+.image{
+    /* align-items: center; */
+  display: block;
+    margin: 0 auto;
+}
